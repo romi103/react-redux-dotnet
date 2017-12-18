@@ -1,0 +1,10 @@
+C:\reactApp\server\obj\Debug\netcoreapp2.0\reatApp.csproj.CoreCompileInputs.cache
+C:\reactApp\server\obj\Debug\netcoreapp2.0\reatApp.AssemblyInfoInputs.cache
+C:\reactApp\server\obj\Debug\netcoreapp2.0\reatApp.AssemblyInfo.cs
+C:\reactApp\server\bin\Debug\netcoreapp2.0\reatApp.deps.json
+C:\reactApp\server\bin\Debug\netcoreapp2.0\reatApp.runtimeconfig.json
+C:\reactApp\server\bin\Debug\netcoreapp2.0\reatApp.runtimeconfig.dev.json
+C:\reactApp\server\bin\Debug\netcoreapp2.0\reatApp.dll
+C:\reactApp\server\bin\Debug\netcoreapp2.0\reatApp.pdb
+C:\reactApp\server\obj\Debug\netcoreapp2.0\reatApp.dll
+C:\reactApp\server\obj\Debug\netcoreapp2.0\reatApp.pdb
